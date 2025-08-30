@@ -33,7 +33,8 @@ A simple student registration application built using Visual Studio and Windows 
 
 ## Screenshots
 
-*(Add screenshots of the main UI windows here)*
+Check my docs file
+
 
 ## Contributing
 
